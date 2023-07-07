@@ -1,6 +1,5 @@
 import { useState, React } from 'react';
 import { banner1, banner2, banner3, banner4 } from '../assets/index';
-import { FaBeer } from 'react-icons/fa';
 import { FaArrowLeft, FaArrowRight } from 'react-icons/fa';
 const Banner = () => {
     const [currentSlide, setCurrentSlide] = useState(0);

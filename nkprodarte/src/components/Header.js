@@ -13,8 +13,10 @@ const Header = () => {
                             <li className=' hover:text-red-600 hover:underline underline-offset-2 decoration-[1px] cursor-pointer duration-300'>ESPECTACULOS</li>
                             <li className=' hover:text-red-600 hover:underline underline-offset-2 decoration-[1px] cursor-pointer duration-300'>TICKETS</li>
                             <li className=' hover:text-red-600 hover:underline underline-offset-2 decoration-[1px] cursor-pointer duration-300'>BLOG</li>
+                            <div className='relative'>
                             <img src={cart} alt='shopCart' className='w-6' />
                             <span className='absolute w-6 bottom-5 left-0 text-sm flex items-center justify-center font-semibold font-titleFont'>0</span>
+                            </div>
                             <img src={user} alt='user' className='w-8 h-8 rounded-full bg-red-600 border-red-600 border-4' />
                         </ul>
                     </div>
