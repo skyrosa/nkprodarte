@@ -10,7 +10,14 @@ import twitter from "./twitter.png"
 import twitter1 from "./twitter1.png"
 import youtube from "./youtube.png"
 import youtube1 from "./youtube1.png"
-import logoblack from "./logoblack.png"
-import logowhite from "./logowhite.png"
+import logoBlack from "./logoBlack.png"
+import logoWhite from "./logoWhite.png"
+import user from "./user.png"
+import user1 from "./user1.png"
+import banner1 from "./banner1.jpg"
+import banner2 from "./banner2.jpg"
+import banner3 from "./banner3.jpg"
+import banner4 from "./banner4.jpg"
 
-export { blog, blog1, cart, cart1, facebook, facebook1, twitter, twitter1, youtube, youtube1, instagram, instagram1, logowhite, logoblack }
+
+export { blog, blog1, cart, cart1, facebook, facebook1, twitter, twitter1, youtube, youtube1, instagram, instagram1, logoWhite, logoBlack, user, user1, banner1, banner2, banner3, banner4 }
