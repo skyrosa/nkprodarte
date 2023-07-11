@@ -18,6 +18,6 @@ import banner1 from "./banner1.jpg"
 import banner2 from "./banner2.jpg"
 import banner3 from "./banner3.jpg"
 import banner4 from "./banner4.jpg"
+import pay from "./pay.png"
 
-
-export { blog, blog1, cart, cart1, facebook, facebook1, twitter, twitter1, youtube, youtube1, instagram, instagram1, logoWhite, logoBlack, user, user1, banner1, banner2, banner3, banner4 }
+export { pay, blog, blog1, cart, cart1, facebook, facebook1, twitter, twitter1, youtube, youtube1, instagram, instagram1, logoWhite, logoBlack, user, user1, banner1, banner2, banner3, banner4 }
